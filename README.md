@@ -33,7 +33,7 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 ## PROJECT DEMO VIDEO
 
 
-https://user-images.githubusercontent.com/88899234/161116804-21b48930-bd44-4f72-a5d2-24445a56beac.mp4
+
 
 
 ## NOTE
