@@ -1,5 +1,14 @@
 # Pneumonia Detector
 
+Project Submitted By,
+
+Jeenath S,
+CSE - Final Year
+Bharathiyar Institute of Engineering for Women.
+
+Live website on,
+https://jeenath.herokuapp.com/pneumonia
+
 ## About
 
 This webapp was developed using Flask Web Framework and was deployed on Heroku server. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
@@ -29,7 +38,7 @@ https://user-images.githubusercontent.com/88899234/161116804-21b48930-bd44-4f72-
 
 ## NOTE
 
-==> You can access the website live at:http://pneumoniadetectplus.azurewebsites.net/  <br>
+==> You can access the website live at:https://jeenath.herokuapp.com/pneumonia  <br>
 ==> Python version 3.6.15 was used for the whole project.<br>
 
 ## Steps to run this application in your system
